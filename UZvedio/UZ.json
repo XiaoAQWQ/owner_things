@@ -1,0 +1,94 @@
+{
+    "danMu": [
+      {
+        "name": "弹幕扩展",
+        "version": 1,
+        "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/danMu/js/danMu.js",
+        "type": 400
+      },
+      {
+        "name": "弹幕扩展备用",
+        "version": 10,
+        "remark": "搜不到就算了，不要那么执着",
+        "codeID": "HyplMQ00pLZipW1jy1e9qTsjZbznKjq2",
+        "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/danMu/js/danMu2.txt",
+        "type": 400
+      }
+    ],
+    "recommend": [
+      {
+        "name": "豆瓣推荐",
+        "version": 3,
+        "remark": "iOS14 以上版本可用",
+        "codeID": "N7WRmLmOdB8FSh4M",
+        "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/recommend/js/douban.txt",
+        "type": 200
+      }
+    ],
+    "vod": [
+      {
+        "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
+        "name": "[采][无广]电影天堂",
+        "type": 0
+      },
+      {
+        "name": "[直]瓜子web",
+        "version": 2,
+        "webSite": "https://api.zaqohu.com",
+        "instance": "gzys20240822",
+        "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/gzys.js",
+        "type": 100
+      },
+      {
+        "name": "[直]瓜子 app",
+        "version": 2,
+        "remark": "v1.6.53 及以上版本",
+        "webSite": "https://api.9cec79d.com",
+        "codeID": "ra5Z3wtXKshzSMK2",
+        "instance": "gzapp20241001",
+        "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/gzapp.txt",
+        "type": 100
+      },
+      {
+        "name": "[直]在线之家",
+        "version": 2,
+        "webSite": "https://www.zxzja.com",
+        "instance": "zxzj20240620",
+        "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/zxzj.js",
+        "type": 100
+      },
+      {
+        "name": "[直]厂长影视",
+        "version": 2,
+        "webSite": "https://www.czzy77.com",
+        "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/changZhang20240614.js",
+        "type": 101
+      },
+      {
+        "name": "[直]4k-av",
+        "version": 2,
+        "webSite": "https://4k-av.com",
+        "instance": "www4kav20240705",
+        "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/4kav.js",
+        "type": 100
+      },
+      {
+        "api": "https://cj.rycjapi.com/api.php/provide/vod",
+        "name": "[采]如意",
+        "type": 0
+      },
+      {
+        "api": "https://cjhwba.com/api.php/provide/vod/",
+        "name": "[采]华为吧",
+        "type": 0
+      }
+    ],
+    "live": [
+      {
+        "name": "📺电视直播",
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+        "type": 10,
+        "remark": "来自 PizazzGY 大佬"
+      }
+    ]
+  }
